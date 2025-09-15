@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="slotmachine.css">
+    <title>Slot Machine</title>
+</head>
+<body>
+    <section class="first">
+        <h1>Simple Slot Machine</h1>
+        <h2>Spin To Win 🎉</h2>
+
+         <h3> Match All And Win Points</h3>
+
+        <form>
+            <div id="first"></div>
+            <div id="middle"></div>
+            <div id="last"></div>
+        </form>
+
+    <section class="stopandspin">
+        <button onclick="clickToSpin()" class="pressSpin">Spin</button><br><br>
+        <button class="press">Stop</button> <br><br>
+
+    </section>
+    
+        <h4 id="placeToSee"></h4>
+        <button onclick="clearScore()" class="clean">Clean To Start</button>
+
+    </section>
+    <span id="message"></span> 
+    <script src="slotmachine.js"></script>
+</body>
+</html>
