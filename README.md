@@ -13,3 +13,4 @@ From the Simple Slot Machine game, I learned how to apply different functions an
 
 
 
+<img width="1197" height="877" alt="Screenshot 2025-09-28 at 3 38 13 PM" src="https://github.com/user-attachments/assets/08545ece-2eb0-4233-b0a4-4f466b85ef6a" />
