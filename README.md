@@ -1,5 +1,5 @@
 # My Simple Slot Machine Game
-My simple slot machine is build using html, css and javascript. It includes javascript functions that allow the player spin and stop and win points if he gets two similar images or gets all 3 of them. It is fun and can be played my multiple players. The points are shown in the placeholderd and a message is displayed after an attempt. 
+My simple slot machine is built using HTML, CSS, and JavaScript. It includes functions that allow players to spin the reels, stop them, and earn points if they match two or all three images. The game is entertaining and can be played by multiple players. Points are displayed in placeholders, and a message appears after each attempt.
 
 
 ## How It's Made:
@@ -14,3 +14,5 @@ From the Simple Slot Machine game, I learned how to apply different functions an
 
 
 <img width="1197" height="877" alt="Screenshot 2025-09-28 at 3 38 13 PM" src="https://github.com/user-attachments/assets/08545ece-2eb0-4233-b0a4-4f466b85ef6a" />
+
+Find the live project here https://innocent-r.github.io/slot-machine-2019-week05/
